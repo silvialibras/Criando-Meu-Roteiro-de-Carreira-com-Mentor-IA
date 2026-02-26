@@ -281,13 +281,3 @@ Por que:
 
 ⌨️ com 💜 por Silvia Fagundes
 
----
-
-Se você quiser, posso agora:
-
-* 🔥 Deixar esse README com visual mais "nível senior"
-* 💎 Adicionar badges (GitHub, .NET, DIO, status do projeto)
-* 🚀 Criar versão em inglês
-* 📌 Criar um README mais estratégico para recrutadores
-
-Qual versão você quer evoluir agora?
