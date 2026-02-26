@@ -1,10 +1,3 @@
-Claro, Silvia 💜✨
-Organizei todo o seu conteúdo em um **README.md estruturado, profissional e pronto para o GitHub**, com melhor hierarquia visual, organização e clareza.
-
-Você pode copiar e colar direto no seu `README.md`:
-
----
-
 # 🚀 Criando Meu Roteiro de Carreira com Mentor IA
 
 Projeto desenvolvido como parte da minha jornada de transição para a área de tecnologia, utilizando conceitos de **IA, estruturação de agentes e planejamento estratégico de carreira**.
